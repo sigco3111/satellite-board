@@ -1,0 +1,6 @@
+{
+  "name": "위성 궤도 시각화",
+  "description": "실시간 TLE 데이터를 사용하여 위성을 검색하고 궤도를 3D로 시각화하는 최신 웹 애플리케이션입니다.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
