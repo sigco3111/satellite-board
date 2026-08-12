@@ -3,7 +3,7 @@
 
 실시간 TLE(Two-Line Element set) 데이터를 기반으로 인공위성을 검색하고, 선택된 위성의 궤도를 3D 지구본 위에 시각화하는 인터랙티브 웹 애플리케이션입니다. Google Gemini API를 연동하여 위성에 대한 상세한 설명을 AI가 생성해주는 기능도 포함하고 있습니다.
 
-실행주소1 : https://satellite-board.vercel.app/
+실행주소1 : https://sigco3111.github.io/satellite-board/
 
 실행주소2 : https://dev-canvas-pi.vercel.app/
 
